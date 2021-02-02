@@ -1,5 +1,5 @@
 # Files for our learning
 
-Download the file from here:
+Download the files from here:
 
 [`vaccinations.pdf`](assets/vaccinations.pdf)
