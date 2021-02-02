@@ -1,0 +1,12 @@
+site_name: Learnwithshin Docs
+
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+
+nav:
+  - Home: index.md
+  - Files: files.md
