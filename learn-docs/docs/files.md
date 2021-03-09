@@ -2,10 +2,6 @@
 
 Download the files from here:
 
-[`countries.csv`](assets/countries.csv)
+[`countries_03_08_21.csv`](assets/countries_03_08_21.csv)
 
-[`country_vaccination_ts.csv`](assets/country_vaccination_ts.csv)
-
-[`country_vaccinations.csv`](assets/country_vaccinations.csv)
-
-[`vaccinations.pdf`](assets/vaccinations.pdf)
+[`country_vaccination_ts_03_08_21.csv`](assets/country_vaccination_ts_03_08_21.csv)
