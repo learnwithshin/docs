@@ -30,7 +30,7 @@ setup:
 	cp ~/git/learnwithshin/python-portfolio/_preparation/countries* ./learn-docs/docs/assets
 	cp ~/git/learnwithshin/python-portfolio/_preparation/country_vaccination_ts* ./learn-docs/docs/assets
 
-update-page:
+update-page: learn-docs/docs/assets/countries_03_08_21.csv
 	@echo $@
 	@echo "Update file page with new content..."
 	@sed -i '' '5,8d' ./learn-docs/docs/files.md

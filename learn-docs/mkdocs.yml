@@ -10,3 +10,5 @@ theme:
 nav:
   - Home: index.md
   - Files: files.md
+  - Practices: 
+    - 'Top Rated Movies': "./practices/top_rated_movies.md"
